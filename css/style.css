@@ -49,7 +49,7 @@ margin:0px; padding:0px;
 .banner{ width:100%}
 .banner img{ display:block; max-width:100%}
 .below-banner{ width:100%; height:250px; float:left; background:#2C098D}
-.below-content{ width:940px; margin:0px auto;}
+.below-content{ width:990px; margin:0px auto;}
 .title{ font-size:32px; font-family:"Century Gothic"; color:#9BD2C9; text-align:center; margin:35px 0px 25px 0px;}
 .ab-content{font-family:"Century Gothic"; font-style:italic; font-size:22px; color:#F5FEFF; text-align:center; margin-bottom:20px;}
 .find-more{ text-align:center; }
@@ -71,7 +71,7 @@ margin:0px; padding:0px;
 
 /********Content-area*********/
 .content-area{ background:url(../images/body-bg.jpg) center; width:100%; float:left; min-height:746px}
-.home-title{ font-weight:bold; font-size:28px; font-family:"Century Gothic"; margin:60px 0px 40px 0px}
+.home-title{ font-weight:bold; font-size:28px; font-family:"Century Gothic"; margin:60px 0px 40px 0px; text-align:center}
 .services-box{ width:225px; float:left; margin-right:15px; margin-bottom:25px;}
 .services-area{ width:104%}
 .img{ width:100%; height:160px; float:left}
@@ -113,8 +113,8 @@ margin:0px; padding:0px;
 .b-img{ float:left; margin-right:15px; width:195px;}
 .b-text{ float:left; width:422px; text-align:left ; font-size:14px;font-family:"Segoe UI"; line-height:22px; margin-top:-5px;}
 .read-more{ text-align:left; margin:15px 0px 0px 0px; float:left;font-family:"Century Gothic"; font-size:14px;}
-.read-more a{ color:#4e4e4e}
-.read-more span{ color:#91D0FC}
+.read-more a{ color:#4e4e4e; text-transform:uppercase}
+.read-more span{ color:#177C9C}
 .blog-box{ border-bottom:3px solid #d8d8d8; padding-bottom:18px; float:left; margin-bottom:20px;}
 .blog-box-des{  padding-bottom:18px; float:left; }
 .sidebar-top{ height:95px; width:200px; float:left; }
